@@ -39,8 +39,8 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tamilvelan26/Credit-Card-Fraud-Prediction-using-Machine-Learning/tree/main
-   cd Credit-Card-Fraud-Prediction-using-Machine-Learning
+   git clone https://github.com/yourusername/Credit-Card-Prediction-Using-Machine-Learning.git
+   cd Credit-Card-Prediction-Using-Machine-Learning
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -56,17 +56,18 @@ To set up the project environment, follow these steps:
 
 ## Usage
 
-1. **Load the Data:**
-   Open `notebooks/credit_card_fraud_analysis.ipynb` in Jupyter Notebook to start analyzing the data.
+1. **Open the Jupyter Notebook:**
+   Launch Jupyter Notebook and open `Credit Card Fraud Prediction.ipynb` to start exploring and analyzing the data.
 
 2. **Data Preprocessing:**
-   Follow the steps in the notebook to preprocess and clean the data.
+   Follow the steps in the notebook for data cleaning, feature engineering, and splitting the dataset.
 
 3. **Model Training:**
-   The notebook includes code to train and evaluate different machine learning models such as Logistic Regression, Random Forest, and Decision tree.
+   The notebook contains sections where different machine learning models are trained, including Logistic Regression, Random Forest, and Gradient Boosting.
 
-4. **Results:**
-   Analyze the results in the notebook and review model performance metrics.
+4. **Results Analysis:**
+   Review the results and performance metrics in the notebook, including Accuracy,precision, recall, and F1-score. Visualizations are provided to help interpret model performance.
+
 
 ## Results
 
@@ -76,8 +77,9 @@ The project includes detailed analysis of the models' performance. Key metrics i
 - Recall
 - F1-Score
 
-Refer to the `notebooks/credit_card_fraud_analysis.ipynb` for visualizations and performance comparisons.
+Refer to the `Credit Card Fraud Prediction.ipynb` notebook for detailed analysis and visualizations.
+
 
 ## Final Model
 
-The model build by using RandomForest machine learning algorithm gives more accuracy than other machine learning model of 99.999687.
+The model build by using RandomForest machine learning algorithm gives more accuracy score than other machine learning model.
