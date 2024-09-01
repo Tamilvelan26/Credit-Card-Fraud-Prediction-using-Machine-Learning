@@ -71,7 +71,7 @@ To set up the project environment, follow these steps:
 
 ## Results
 
-The project includes detailed analysis of the models' performance. Key metrics include:
+The project includes detailed analysis of the model's performance. Key metrics include:
 - Accuracy
 - Precision
 - Recall
@@ -82,4 +82,4 @@ Refer to the `Credit Card Fraud Prediction.ipynb` notebook for detailed analysis
 
 ## Final Model
 
-The model build by using RandomForest machine learning algorithm gives more accuracy score than other machine learning model.
+The model build using RandomForest machine learning algorithm gives more accuracy score than other machine learning model which is finilized and saved for future prediction.
