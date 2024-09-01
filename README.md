@@ -69,6 +69,11 @@ To set up the project environment, follow these steps:
    Review the results and performance metrics in the notebook, including Accuracy,precision, recall, and F1-score. Visualizations are provided to help interpret model performance.
 
 
+## Final Model
+
+The model build using RandomForest machine learning algorithm gives more accuracy score than other machine learning model which is finilized and saved for future prediction.
+
+
 ## Results
 
 The project includes detailed analysis of the model's performance. Key metrics include:
@@ -78,8 +83,3 @@ The project includes detailed analysis of the model's performance. Key metrics i
 - F1-Score
 
 Refer to the `Credit Card Fraud Prediction.ipynb` notebook for detailed analysis and visualizations.
-
-
-## Final Model
-
-The model build using RandomForest machine learning algorithm gives more accuracy score than other machine learning model which is finilized and saved for future prediction.
